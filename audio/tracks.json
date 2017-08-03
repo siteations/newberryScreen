@@ -1,0 +1,47 @@
+[
+   {
+      "title": "A Forest",
+      "src": "./00.mp3",
+      "place": "Berlin?",
+      "date": "2015",
+      "author": "Christian Loeffler",
+      "performance": "symphony/players",
+      "directed": "conductor",
+      "performDate": "recorded on ...",
+      "description": "notes on cultural use, circulation, etc."
+   },
+   {
+      "title": "Pale Skin",
+      "src": "./01.mp3",
+      "place": "Berlin?",
+      "date": "2015",
+      "author": "Christian Loeffler",
+      "performance": "symphony/players",
+      "directed": "conductor",
+      "performDate": "recorded on ...",
+      "description": "notes on cultural use, circulation, etc."
+   },
+   {
+      "title": "Eleven, featuring Mohna",
+      "src": "./02.mp3",
+      "place": "Berlin?",
+      "date": "2015",
+      "author": "Christian Loeffler",
+      "performance": "symphony/players",
+      "directed": "conductor",
+      "performDate": "recorded on ...",
+      "description": "notes on cultural use, circulation, etc."
+   },
+   {
+      "title": "Ash & Snow",
+      "src": "./03.mp3",
+      "place": "Berlin?",
+      "date": "2015",
+      "author": "Christian Loeffler",
+      "performance": "symphony/players",
+      "directed": "conductor",
+      "performDate": "recorded on ...",
+      "description": "notes on cultural use, circulation, etc."
+   }
+]
+
