@@ -129,9 +129,14 @@ $('#titleTop').on('change', function(){
 
 	if (choice === 'home'){
 		//index area to be in-filled here
+		$('#mainFrame').attr("class", "coreExhibit coreHidden");
+		$('#pageIndex').attr("class", "coreExhibit");
+
 
 	} else if (navChoices[choice].iframe){
 		$('#mainFrame').attr("src", navChoices[choice].iframe); //switch out main iframe
+		$('#mainFrame').attr("class", "coreExhibit");
+		$('#pageIndex').attr("class", "coreExhibit coreHidden");
 		$('#menuChoices').empty();
 
 		let options = navChoices[choice].subsections;
@@ -149,7 +154,33 @@ $('#titleTop').on('change', function(){
 
 	}
 
-
 });
 
+$('.indexItem').on('click', function(event){
+	var choice = event.currentTarget.attributes.value.nodeValue;
+
+	if (navChoices[choice].iframe){
+		$('#mainFrame').attr("src", navChoices[choice].iframe); //switch out main iframe
+		$('#mainFrame').attr("class", "coreExhibit");
+		$('#pageIndex').attr("class", "coreExhibit coreHidden");
+		$('#menuChoices').empty();
+
+		$("#titleTop").val(choice);
+
+		let options = navChoices[choice].subsections;
+		let keys = navChoices[choice].subshort;
+
+		options.map((option, i)=>{
+			$('#menuChoices').append(`<li><span value=${keys[i]} class="menuElements" tabindex="-1" id=${keys[i]}><span class="menuElements" >${option}</span></span><a class="expand" title="Explore ${option}" tabindex="-1"><span class="menuIcon rightArrowIcon pull-right"></span></a></li>`);
+			$('#'+keys[i]).on('click', function(){
+						$('#mainFrame').attr("src", navChoices[keys[i]].iframe); //switch out main iframe
+
+				});
+
+		});
+
+
+	}
+
+})
 

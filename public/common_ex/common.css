@@ -914,8 +914,8 @@ audio::-webkit-media-controls-enclosure { max-width: 100%; /* removes chrome's m
 	padding-left: 7.2rem;
 	padding-right: 7.2rem;
 	font-size: 1.2rem;
-	padding-top: 1rem;
-	padding-bottom: 1rem !important;
+	/*padding-top: 1rem;*/
+	padding-bottom: .5rem !important;
 	background-color: #444;
 }
 
@@ -1866,7 +1866,7 @@ body.timeline header>h1{
 }
 
 .titleAlt {
-	color: #ac2728;
+	color: #fff;
 	font-family: 'Lato';
 	vertical-align: baseline;
 	line-height:3em;
@@ -1875,7 +1875,7 @@ body.timeline header>h1{
 	margin-top: 0rem !important;
 	letter-spacing: 1px;
 	width: 100%;
-	border-bottom: solid 1px #ac2728;
+	border-bottom: solid 1px #fff;
 
 }
 
@@ -1895,18 +1895,8 @@ body.timeline header>h1{
 	font-weight: bold;
 }
 
-.indexGen {
-	color: #ffffff;
-	background-color: #666;
-}
-
-.indexItem:hover {
-	background-color: #f6f6f6;
-	border-radius: 10px;
-}
-
 .indexItem p {
-	color: #888;
+	color: #d5d5d5;
 	text-decoration-line: none;
 }
 
@@ -1919,6 +1909,38 @@ body.timeline header>h1{
 	font-size: 1.5rem !important;
 	margin-top: 2.2rem !important;
 	cursor: pointer;
+}
+
+.coreExhibit {
+	border-width: 0px;
+	width: 100%;
+	margin: -.15% ;
+	height: 95vh;
+	top: 0px ;
+	position: absolute;
+	overflow-y:auto;
+	overflow-x:hidden;
+	visibility: visible;
+}
+
+.coreHidden {
+	visibility: hidden;
+}
+
+.indexGen {
+	color: #ffffff;
+	background-color: #666;
+	overflow-y:scroll;
+	overflow-x:hidden;
+}
+
+.indexItem:hover {
+	background-color: #555;
+	border-radius: 10px;
+}
+
+.uppercase {
+	text-transform: uppercase;
 }
 /*.image_header {
 	padding-top: 49px !important;
