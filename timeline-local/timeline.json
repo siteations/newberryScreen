@@ -1,0 +1,703 @@
+{
+    "timeline":
+    {
+        "eras": [],
+        "events": [
+        {
+            "display_date": "October 12, 1492",
+            "media":
+            {
+                "url": "http://publications.newberry.org/timelines/images/Ayer_107_56_1493_1494_folio_29-30_o2.jpg"
+            },
+            "start_date":
+            {
+                "day": "12",
+                "month": "10",
+                "year": "1492"
+            },
+            "text":
+            {
+                "headline": "First contact between Christopher Columbus and natives of Guanahani",
+                "text": "Columbus kidnapped members of a number of Caribbean peoples, including the Arawak, Taino, and Ciguayos. In his <i>Diario</i> he recorded some words from the Taino language.  He incorrectly said of the Caribbean natives, \"I think they can very easily be made Christians, for they seem to have no religion.\""
+            }
+        },
+        {
+            "display_date": "1524",
+            "end_date":
+            {
+                "year": "1524"
+            },
+            "start_date":
+            {
+                "year": "1524"
+            },
+            "text":
+            {
+                "headline": "Franciscans arrive and establish themselves in New Spain"
+            }
+        },
+        {
+            "display_date": "1540",
+            "end_date":
+            {
+                "year": "1540"
+            },
+            "media":
+            {
+                "url": "./images/ayer_ms_1478_folio_26v_27r_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1540"
+            },
+            "text":
+            {
+                "headline": "Franciscan dictionary in Latin, Spanish, and Nahuatl",
+                "text": "This dictionary gives Spanish and Nahuatl equivalents for Latin words and phrases and is thought to be either an early of work of Bernardino de Sahag\u00fan, a Franciscan friar who arrived in New Spain in 1529, or the work of a native author. It was published as part two of Antonio de Nebrija's <i>Dictionarium</i> in 1540. "
+            }
+        },
+        {
+            "display_date": "1555",
+            "end_date":
+            {
+                "year": "1555"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_a952m7_1555_aud_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1555"
+            },
+            "text":
+            {
+                "headline": "Sermons in Nahuatl by Alonso de Molina",
+                "text": "As a child, Alonso de Molina traveled to Mexico in 1522 and learned the Nahuatl language through interactions with native-speaking children. As a Franciscan Father, he worked beside Bernardino de Sahag\u00fan and others to translate the Mexica language into vocabularies and to write Christian sermons in Nahuatl."
+            }
+        },
+        {
+            "display_date": "1559",
+            "end_date":
+            {
+                "year": "1559"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_t2145_g4_1559_sig_a1v_a2r_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1559"
+            },
+            "text":
+            {
+                "headline": "Tarascan vocabulary dedicated to the Virgin Mary and her son",
+                "text": "The Franciscan Maturino Gilberti arrived in Michoac\u00e1n in 1542 and published this Tarascan vocabulary, intended for priests to consult, in 1559. Printed in New Spain under the archbishop, Alonso de Montufar of Mexico City, this vocabulary is dedicated to the Virgin Mary and her son. It was compiled by the permission of the Viceroy Luys de Velasco. Gilberti failed to get official permission before publishing subsequent dictionaries, and those later books were challenged by the church."
+            }
+        },
+        {
+            "display_date": "1560",
+            "end_date":
+            {
+                "year": "1560"
+            },
+            "media":
+            {
+                "url": "http://publications.newberry.org/dig/rcp/timeline-images/ayer_ms_1467_00131_o2.jpg"
+            },
+            "start_date":
+            {
+                "year": "1560"
+            },
+            "text":
+            {
+                "headline": "Lectionary in Nahuatl by Bernardino de Sahag\u00fan",
+                "text": "Bernardino de Sahag\u00fan arrived with the first wave of Spanish Franciscan priests to settle in New Spain after the Catholic counter-reformation. Their mandate was to root out paganism in the new world.  Bernardino de Sahag\u00fan approached his task of conversion by recording, Romanizing, and translating the Mexica language of Nahuatl in this dictionary."
+            }
+        },
+        {
+            "display_date": "1560",
+            "end_date":
+            {
+                "year": "1560"
+            },
+            "media":
+            {
+                "url": "./images/ayers_ms_1486_0013_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1560"
+            },
+            "text":
+            {
+                "headline": "Bernardino de Sahag\u00fan\u2019s discussion of faith in Nahuatl",
+                "text": "This bilingual text was written by Father Bernardino de Sahag\u00fan to compliment the scriptural commentaries he had written in Nahuatl. Sahag\u00fan\u2019s philosophy about faith is explained along with the punitive aspects of hell and the rewards of heaven. Sahag\u00fan also described indigenous religious beliefs and the supposed role of the devil in those beliefs."
+            }
+        },
+        {
+            "display_date": "ca. 1569",
+            "end_date":
+            {
+                "year": "1569"
+            },
+            "start_date":
+            {
+                "year": "1569"
+            },
+            "text":
+            {
+                "headline": "Domingo Agust\u00edn V\u00e1ez writes Guale grammar",
+                "text": "A Jesuit missionary, V\u00e1ez seems to have recorded the grammar of the Guale language, spoken on the coast of present-day Georgia. It was the earliest known written description of an American language north of Mexico. Its existence is known from other documents, but the grammar itself (as well as the language it recorded) has been lost."
+            }
+        },
+        {
+            "display_date": "1588",
+            "end_date":
+            {
+                "year": "1588"
+            },
+            "media":
+            {
+                "url": "./images/wing_zp_535_p447_pg_110_111_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1588"
+            },
+            "text":
+            {
+                "headline": "Franciscan history of conversion",
+                "text": "Diego Valad\u00e9s was born in Tlaxcala, New Spain, in 1553, the son of a Spanish soldier turned settler and a Tlaxcalan woman whose name is now lost. Valad\u00e9s entered the Franciscan order in New Spain before the synod of 1555, which forbade people of indigenous and African descent from joining religious orders. In the <i>Rhetorica Christiana</i>, Vald\u00e9s discussion on conversion in the Americas is the first to employ an American perspective that would have knowledge of both European erudition and indigenous beliefs. His goal in this book was to document the evangelizing of Mexican Indians. This image depicts a priest sermonizing to an indigenous population with the help of a screen of images."
+            }
+        },
+        {
+            "display_date": "1600",
+            "end_date":
+            {
+                "year": "1600"
+            },
+            "media":
+            {
+                "url": "./images/ayer_ms_1648_0010_o4.jpg "
+            },
+            "start_date":
+            {
+                "year": "1600"
+            },
+            "text":
+            {
+                "headline": "Dialogue in Nahuatl by Juan de Goana",
+                "text": "Juan de Goana was a Franciscan Father who went from Spain to New Spain in 1538. This dialogue in Nahuatl was published posthumously."
+            }
+        },
+        {
+            "display_date": "1606",
+            "end_date":
+            {
+                "year": "1606"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_a9545_b2_1606_pg_459_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1606"
+            },
+            "text":
+            {
+                "headline": "Akedah sermon in Nahuatl by Juan Bautista",
+                "text": "Born in New Spain in 1555, the Franciscan Father Juan Bautista published these sermons, written in Nahuatl, in 1606. Bautista was an associate of the trilingual Colegio de Santa Cruz at the end of the sixteenth century and was considered to be one of the most eloquent writers in the indigenous language in his time. To make Christian sermons more manageable in Nuhuatl, Bautista broke them up into smaller pieces. He wrote his sermon on the Akedah specifically for the feast of the Apostle Saint Andrew."
+            }
+        },
+        {
+            "display_date": "1607",
+            "end_date":
+            {
+                "year": "1607"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_a9545_m6_1607_pg_66_67_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1607"
+            },
+            "text":
+            {
+                "headline": "Translating the Akedah into huehuetlatolli",
+                "text": "Juan de Mijango\u2019s devotional and ecclesiastical literature was written for clerics and literate Nahuas. The genre was popular in New Spain in the 16th century and was watched closely by the inquisition. Written as a dialogue between father and son, it melds European spiritual literature with the oratorical style known as huehuetlatolli. Through this method, Mijangoes found the language to explain parts of the Bible, such as the Akedah, and complex rituals, such as substantiation, to Nahua readers."
+            }
+        },
+        {
+            "display_date": "1607",
+            "end_date":
+            {
+                "year": "1607"
+            },
+            "media":
+            {
+                "url": "./images/ayer_1471_k41_g64_1607_folio_74v_75r_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1607"
+            },
+            "text":
+            {
+                "headline": "The first printing press in South America",
+                "text": "Printed on the first printing press in South America, the Spanish Jesuit Father Diego Gonza\u0301lez Holgui\u0301n\u2019s grammar is one of the earliest records of the Quechua language. The grammar, published in 1581, translates Quechua into Latin and Spanish."
+            }
+        },
+        {
+            "display_date": "1611",
+            "end_date":
+            {
+                "year": "1611"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_a955_c36_l4_1611_01_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1611"
+            },
+            "text":
+            {
+                "headline": "First devotional manual published in Mexico in the 17th century",
+                "text": "This title was the first devotional manual published in Mexico during the seventeenth century. It provides instructions for delivering blessings for the dying, a catechism, and a calendar."
+            }
+        },
+        {
+            "display_date": "1611",
+            "end_date":
+            {
+                "year": "1611"
+            },
+            "media":
+            {
+                "url": "./images/ayer_150_6_l6n_1609_map_opp_pg_229_01_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1611"
+            },
+            "text":
+            {
+                "headline": "Mi'kmaq vocabulary of Marc Lescarbot",
+                "text": "Lescarbot, a French poet and lawyer, visited Acadia in 1606-07. He supported efforts to convert the \"Souriquois\" (Mi'kmaq) and Wolastoqiyik (Maliseet) and studied their languages and cultures. The first edition of his <i>Histoire de la Nouvelle France</i> was published in 1609; the second edition of 1611 added material such as a short vocabulary for the Mi'kmaq language."
+            }
+        },
+        {
+            "display_date": "1612",
+            "end_date":
+            {
+                "year": "1612"
+            },
+            "start_date":
+            {
+                "year": "1612"
+            },
+            "text":
+            {
+                "headline": "Francisco Pareja's Catecismo En lengua Castellana y Timuquana",
+                "text": "This catechism in Timucua and Spanish, published in Mexico, is the first known published book in an indigenous language. Pareja, a Franciscan missionary to the Timucua in northeast Florida, wrote additional works in Timucua over the next two decades, including a grammar of the language in 1614."
+            }
+        },
+        {
+            "display_date": "1615",
+            "end_date":
+            {
+                "year": "1615"
+            },
+            "media":
+            {
+                "url": "./images/ayer_657_t6_1615_vol_03_tp_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1615"
+            },
+            "text":
+            {
+                "headline": "History of the Franciscan missions in New Spain",
+                "text": "Juan de Torquemada was born in Spain in the 1560s and taken to New Spain as a child. He joined the Franciscans in 1579 and proceeded to study Latin, theology, philosophy, and Nahuatl. One of his early instructors was Father Juan Bautista (link to Bautista\u2019s book). Torquemada wrote <i>Monarchia indiana</i> when he was asked by his order to compile a history of their work and their laity. Torquemada relied on the writings of his colleagues and histories by native writers, such as Fernando Alva Ixtlilxochitl. The result is a compendium that bears many perspectives representing the American experience. The title page in <i>Monarchia indiana</i> is a recreation of a page from the <i>Rhetorica Christiana</i> (link to it) in which a preacher delivers a sermon with the aid of a screen above. While the support for the pulpit is depicted as a sculpture of a demon in the Valad\u00e9s print, here it is just an architectural support."
+            }
+        },
+        {
+            "display_date": "1632",
+            "end_date":
+            {
+                "year": "1632"
+            },
+            "media":
+            {
+                "url": "./images/ruggles_54_book_05_pg_4_5_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1632"
+            },
+            "text":
+            {
+                "headline": "Champlain"
+            }
+        },
+        {
+            "display_date": "1632",
+            "end_date":
+            {
+                "year": "1632"
+            },
+            "media":
+            {
+                "url": "./images/ayer_150_6_s2_1632_tp_01_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1632"
+            },
+            "text":
+            {
+                "headline": "Gabriel Sagard's <i>Dictionaire de la Langue Huronne</i>",
+                "text": "This dictionary and phrase book in the Wyandot language is the major surviving document of the translation work of the Recollect missionaries, who came to New France with Samuel de Champlain in 1615 and worked particularly with the Wendat (also known as the Huron or Wyandot) people."
+            }
+        },
+        {
+            "display_date": "1632-73",
+            "end_date":
+            {
+                "year": "1673"
+            },
+            "media":
+            {
+                "url": "./images/NL000399_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1632"
+            },
+            "text":
+            {
+                "headline": "Jesuit <i>Relations</i> published annually by Chez Sebastian Cramoisy in Paris",
+                "text": "The <i>Relations des J\u00e9suites de la Nouvelle-France</i> were reports from the field of progress and notable events at the Jesuit missions in New France. They are full of information on the Haudenosaunee (Iroquois), Abenaki, Wendat (Huron/Wyandot), and other peoples, including a great deal on linguistics, as well as travel accounts from figures such as Jacques Marquette. The Jesuit <i>Relations</i> are one of the crucial sources for understanding the developing relationship between Europeans and Native Americans in the seventeenth century."
+            }
+        },
+        {
+            "display_date": "1643",
+            "end_date":
+            {
+                "year": "1643"
+            },
+            "media":
+            {
+                "url": "./images/ruggles_374_pg_128_129_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1643"
+            },
+            "text":
+            {
+                "headline": "Roger Williams's <i>A Key into the Language of America, or, An Help to the Language of the Natives in that Part of America, Called New-England</i>",
+                "text": "Roger Williams, the controversial theologian expelled from the Massachusetts colony, was also an early English advocate for the rights of native peoples. It is the first published book-length study of an American language in English. Williams arranged this work on Narragansett (an Algonquian language) topically, from greetings to funerary customs, as a practical phrase-book and commentary to help English settlers understand and communicate with the natives, in hopes of converting them to Christianity. Williams wrote the work on his journey from America to England to secure the charter for the Providence Plantations and Rhode Island."
+            }
+        },
+        {
+            "display_date": "1643-71",
+            "end_date":
+            {
+                "year": "1671"
+            },
+            "media":
+            {
+                "url": "./images/ayer_267_p915_n4_1643_tp_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1643"
+            },
+            "text":
+            {
+                "headline": "\"Eliot Tracts\" published to support missionary work in New England",
+                "text": "The eleven pamphlets that have become known as the \"Eliot Tracts\" were published in London to raise funds for missionary work among the Native Americans. Though he is not the author of all eleven, they are named for the Puritan missionary John Eliot. Beginning with <i>New Englands First Fruits</i>, the Tracts report on progress in understanding the languages and customs of New England tribes in the course of converting natives to Christianity."
+            }
+        },
+        {
+            "display_date": "1644",
+            "end_date":
+            {
+                "year": "1644"
+            },
+            "media":
+            {
+                "url": "./images/ayer_263_j512_1643_v5_056_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1644"
+            },
+            "text":
+            {
+                "headline": "Letter of an Algonquin Christian convert to a benefactor in France",
+                "text": "The Jesuit <i>Relation</i> for 1642-43 includes this letter in Algonquin by a \"neophyte,\" or recent convert. The letter was dictated to and translated into French by Father Barth\u00e9lemy Vimont, the superior of the Jesuit mission in Canada, probably at Sillery, in Quebec, an Algonquin Christian community where many Jesuits studied native languages. The unnamed Algonquin thanks the benefactor (probably No\u00ebl Br\u00fblart de Sillery) for his generosity, reports that two nuns have arrived at the hospital where he is staying, and writes, \"kat nita wapmirang endrakieg niga kichkabantimin Wakwing\" (\"Would it were so that we could see you in your own country; we shall see each other in Heaven,\" (trans. Finlow Alexander et al)."
+            }
+        },
+        {
+            "display_date": "1658",
+            "end_date":
+            {
+                "year": "1658"
+            },
+            "media":
+            {
+                "url": "./images/ayer_267_p915_c8_1659_022_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1658"
+            },
+            "text":
+            {
+                "headline": "Abraham Pierson's Quiripi catechism <i>Some Helps for the Indians</i>",
+                "text": "Pierson, minister of the church in Branford, Connecticut, first published his bilingual catechism in English and Quiripi (the dialect of Algonquian used by the Quinnipiac Indians) in 1658 in Cambridge, Massachusetts; it was then included in the ninth of the \"Eliot Tracts\" published in London in 1659. It is one of the few surviving witnesses to Quiripi, though modern linguists have criticized Pierson for the quality of the translation."
+            }
+        },
+        {
+            "display_date": "1663",
+            "end_date":
+            {
+                "year": "1663"
+            },
+            "media":
+            {
+                "url": "http://publications.newberry.org/storymap/images/ayer_421_m435_b5_1663_o2_transparent2.png"
+            },
+            "start_date":
+            {
+                "year": "1663"
+            },
+            "text":
+            {
+                "headline": "Elliot Bible printed"
+            }
+        },
+        {
+            "display_date": "1664",
+            "end_date":
+            {
+                "year": "1664"
+            },
+            "start_date":
+            {
+                "year": "1664"
+            },
+            "text":
+            {
+                "headline": "Raymond Breton's <i>Petit Catechisme in Carib</i>"
+            }
+        },
+        {
+            "display_date": "1669",
+            "end_date":
+            {
+                "year": "1669"
+            },
+            "media":
+            {
+                "url": "./images/case_bt_660_g8_a95_1669_af_tp_03_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1669"
+            },
+            "text":
+            {
+                "headline": "Poetry and prints in honor of La Virgen de Guadalupe",
+                "text": "The Cult of la Virgen de Guadalupe developed in the early 1600s, around the same time as the introduction of the printing press in Mexico. As a result, her image became standardized fairly quickly. These two prints, however, depict her in distinct ways. The image on the left renders her likeness through a sketch and outline of her face, while the one on the right bears a version of the already-iconic image, complete with robe, crown, and angel."
+            }
+        },
+        {
+            "display_date": "1673",
+            "end_date":
+            {
+                "year": "1673"
+            },
+            "media":
+            {
+                "url": "./images/f_82_157_v_5_01_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1673"
+            },
+            "text":
+            {
+                "headline": "Chretien Le Clercq begins missionary work with the Mi'kmaq",
+                "text": "Le Clercq, a Franciscan Recollect, adapted an existing Mi'kmaq system of glyphs into a logographic writing system which remained in use by the Mi'kmaq into the nineteenth century."
+            }
+        },
+        {
+            "display_date": "1688",
+            "end_date":
+            {
+                "year": "1688"
+            },
+            "media":
+            {
+                "url": "./images/ayer_657_65_f63_1688_frontis_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1688"
+            },
+            "text":
+            {
+                "headline": "Engravings of the Apparition of the la Virgen de Guadalupe",
+                "text": "In four engravings, with accompanying Spanish text by the Jesuit priest Francisco de Florencia, this 1785 reprint of a volume originally published in 1688 narrates the tale of the apparition of the Virgen de Guadalupe before the Christianized Indian, Juan Diego, who first accepts her and then has her image emblazoned upon his tilma. The material is then shown to Bishop Zum\u00e1rraga, who then also accepts Guadalupe. The moment symbolizes the Christianizing of the Americas as Juan Diego, a native Mexican, accepts the cult of Guadalupe. Sylvia R. Santaballa argues that this history helped Creole efforts to codify la Virgen de Guadalupe as a multilayered symbol of \u201cMexican cultural identity\u201d that was distinct from strictly European or indigenous culture."
+            }
+        },
+        {
+            "display_date": "1688",
+            "end_date":
+            {
+                "year": "1688"
+            },
+            "start_date":
+            {
+                "year": "1688"
+            },
+            "text":
+            {
+                "headline": "Apalachee and Timucua chiefs write to King Charles II of Spain"
+            }
+        },
+        {
+            "display_date": "1696",
+            "end_date":
+            {
+                "year": "1696"
+            },
+            "media":
+            {
+                "url": "./images/ayer_421_d315_l9 1696_tp_01_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1696"
+            },
+            "text":
+            {
+                "headline": "Johan Campanius Holm's catechism in Delaware and Swedish"
+            }
+        },
+        {
+            "display_date": "ca. 1700",
+            "end_date":
+            {
+                "year": "1700"
+            },
+            "media":
+            {
+                "url": "./images/GravierDictionary.jpg"
+            },
+            "start_date":
+            {
+                "year": "1700"
+            },
+            "text":
+            {
+                "headline": "Gravier's Illinois-French Dictionary",
+                "text": "After learning the Algonquin language in Quebec, the Jesuit missionary Gravier began work among the tribes of the Illinois Confederation at Starved Rock in 1689. His manuscript dictionary of the Kaskaskia dialect of the Algonquian Illinois language is the most extensive linguistic work produced by the French missionaries to the Illinois."
+            }
+        },
+        {
+            "display_date": "1703",
+            "end_date":
+            {
+                "year": "1703"
+            },
+            "media":
+            {
+                "url": "./images/CAT125.1R1_39B_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1703"
+            },
+            "text":
+            {
+                "headline": "The cosmology of the Quich\u00e9 Maya",
+                "text": "The copy of the <i>Arte de las tres lenguas kakchiquel, quiche\u0301 y tzutuhil</i>, commonly known as the Popul Vuh, held at the Newberry Library is the oldest known handwritten copy. The Dominican priest Francisco Xim\u00e9nez employed an ethnographical approach in documenting the cosmological beliefs of the highland Maya in the late 16th century. His purpose was to document their belief systems so that he could change their minds and convert them to Catholicism. Here, Xim\u00e9nez recorded the information he gathered in both Castilian and Quiche. Edward E. Ayer purchased this copy from the French Linguist Alphonse Pinart in the late 19th century."
+            }
+        },
+        {
+            "display_date": "1724",
+            "end_date":
+            {
+                "year": "1724"
+            },
+            "media":
+            {
+                "url": "./images/ayer_ms_1724_tp_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1724"
+            },
+            "text":
+            {
+                "headline": "Jesuits in the Philippines",
+                "text": "The first Jesuit mission in the Philippines was established in 1581. This manuscript translation of St. Ignatius of Loyola\u2019s <i>Spiritual Exercises</i> (1533) was completed in 1755 by Father Manuel Garris."
+            }
+        },
+        {
+            "display_date": "1729",
+            "end_date":
+            {
+                "year": "1729"
+            },
+            "media":
+            {
+                "url": "./images/ayer_871_m615_c35_1729_tp_o4.jpg"
+            },
+            "start_date":
+            {
+                "year": "1729"
+            },
+            "text":
+            {
+                "headline": "Liturgy in Mixe",
+                "text": "This liturgy was one of three written in the Mixe language by Father Augusto Quintana Prieto and published in Mexico."
+            }
+        },
+        {
+            "display_date": "1770",
+            "end_date":
+            {
+                "year": "1770"
+            },
+            "start_date":
+            {
+                "year": "1770"
+            },
+            "text":
+            {
+                "headline": "Works Consulted",
+                "text": "\n\nThis\ntimeline tells only a small part of the first chapter of a long story that\ncontinues to be written today, as indigenous communities work to preserve their\nunique linguistic traditions. As such, we encourage users to continue exploring\nthis story on their own through the Newberry\u2019s collections and the literature\ncited below. <br></br>\n\n<i>Newberry Collections</i><br></br>\n\nThe Newberry holds a unique collection of\nprinted and manuscript materials related to indigenous languages. Much of it is\nincluded in the collection of Edward E. Ayer, a 19th-century\nMidwestern businessman whose interest in contact moments between indigenous\npeople and Europeans inspired him to collect many handwritten manuscripts and\nearly printed works produced by the church in New Spain. Indigenous-language materials\nare also prevalent in the William B. Greenlee Collection, focused on Portuguese\nand Brazilian history, and in the Prince Louis Lucien Bonaparte Collection,\nfocused on historical linguistics. For further information on these collections\nand how to use them, follow the catalog links in the resource or contact a\n<a href= \"https://www.newberry.org/contact-librarian\"> Newberry Reference Librarian.</a> <br></br> <i>Further Reading</i> <ol><li>Abbott, Don Paul.<i>Rhetoric in the New World:\n Rhetorical Theory and Practice in Colonial Spanish America.</i> \nUniversity of South Carolina Press, 1996.</li><li>Angulo, \nGabriel, ed. <i>Colonial Spanish Sources for Indian Ethnohistory \nat the Newberry Library.</i> \nhttps://www.newberry.org/sites/default/files/researchguide-attachments/ColonialSpanishSourcesforIndianEthnohistory.pdf.\n Last accessed 9 June 2017.</li><li>Balsera, Viviana D\u00edaz. \n\u201cInstructing the Nahuas in Judeo-Christian Obedience: A Neixcuitilli and\n Four Sermon Pieces on the Akedah.\u201d <i>Nahuatl Theater: Volume 1: \nDeath and Life in Colonial Nahua Mexico.</i> Barrry D. Sell and \nLouise M. Burkhart, eds. Norman: University of Oklahoma, \n2004.</li><li>Bandelier, Adolph Francis. \u201cHoracio Carochi\u201d. \n<i>Catholic Encyclopedia. Volume III.</i> New York: Robert \nAppleton and Company, 1908.</li><li>Benavides, Alonso de. \n<i>Benavides\u2019 Memorial of 1630.</i> Peter P. Forrestal, \ntrans.; Cyprian J. Lynch, ed. Washington Academy of American Franciscan \nHistory, 1954.</li><li>Campbell, Lyle. <i>American \nIndian Languages: The Historical Linguistics of Native \nAmerica.</i> New York: Oxford University Press, \n1997.</li><li>Columbus, Christopher. <i>The Journal of\n Christopher Columbus (During His First Voyage, 1492-93) and Documents \nRelating the Voyages of John Cabot and Gaspar Corte Real.</i> \nClements R. Markham, ed. and trans. London: Hakluyt Society, \n1893.</li><li>Escand\u00f3n, Patricia. <i>De la Iglesia \nindiana: homenaje a Elsa Cecilia Frost.</i> M\u00e9xico, D.F.: \nUniversidad Nacional Aut\u00f3noma\u00a0de\u00a0M\u00e9xico, \n2006.</li><li>Goddard, ed., Ives. <i>Handbook of North\n American Indians, Volume 17: Languages.</i> Washington, D.C.: \nSmithsonian Institution, 1996.</li><li>Kimball, Geoffrey. \u201cA\n Grammatical Sketch of Apalachee.\u201d <i>International Journal of \nAmerican Linguistics</i> 53.2 (Apr 1987), \n136-174.</li><li>Lafaye, Jacques. <i>Quetzalco\u0301atl and\n Guadalupe: the formation of Mexican national consciousness, \n1531-1813.</i> Chicago: University of Chicago Press, \n1987.</li><li>Le Clercq, Chrestien. <i>New Relation of\n Gaspesia, with the Customs and Religion of the Gaspesian \nIndians.</i> William F. Ganong, ed. and trans. Toronto: Champlain \nSociety, 1910.</li><li>Maggs Bros. <i>The Voyages \n& Discoveries of Early Travellers and Missionaries.</i> \nLondon: Maggs Bros. Leamington Spa, Courier \npress.</li><li>Ochoa Serrano, \u00c1lvaro (1987). <i>Father\n Maturino Giberti y sus obras (Fuentes de la lengua tarasca o \npur\u00e9pecha.</i> Universidad Michoacana de San Nicol\u00e1s de Hidalgo. \nConsultado el 29 de agosto de 2013.</li><li>Taylor, Douglas \nMacrae. <i>Languages of the West Indies.</i> Baltimore: \nJohns Hopkins University Press, 1977.</li><li>Thwaites, \nReuben Gold, ed.  and trans. <i>The Jesuit Relations and Allied \nDocuments.</i> Cleveland: Burrows Bros. Co., \n1896-1901.</li><li>Vaughan, Alden T. \u201cSir Walter Ralegh\u2019s \nIndian Interpreters, 1584-1618.\u201d <i>The William and Mary \nQuarterly</i> 59.2 (Apr 2002), \n341-376.</li><li>Winship, George Parker.  <i>The First\n American Bible</i>. Boston: C.E. Goodspeed and Co., \n1929.</li><li>Wyss, Hilary E. <i>Writing Indians: \nLiteracy, Christianity, and Native Community in Early America.</i>\n Amherst: University of Massachusetts Press, \n2000.</li><li>Z\u00e1rate Salmer\u00f3n, Geronimo. \n<i>Relaciones, an Account of Things Seen and Learned by Father  \nJer\u00f3nimo de Z\u00e1rate Salmer\u00f3n from the Year 1538 to Year 1626.</i> \nAlicia Ronstadt Milich, trans. Albuquerque: Horn & Wallace, \n1966.</li></ol> "
+            }
+        }],
+        "title":
+        {
+            "text":
+            {
+                "headline": "Writing the Voices of the Americas",
+                "text": "<p style=\"font-size:2rem;\">How European missionary attempts to convert native populations led to the documentation of indigenous languages</p> <p>This interactive timeline will introduce you to the process of cultural interaction between\nEuropean priests and the indigenous congregations they worked with in the attempt to Christianize the peoples of the Americas. The materials shown here reflect the time and effort Spanish priests spent getting to know indigenous communities through their languages. These books, pamphlets, and images \u2013 many of which were written or translated by natives \u2013 were crafted in an attempt to share the bible and Christian culture through the process of conversion.</p> \n\n<p>The documents reveal a history of the persistence of indigenous languages and the rich diversity of native religious practices that often became intertwined (or syncretized) with Christian rituals. Through this timeline, you will be able to\nvisualize the painstaking, technical, frustrating, and improvisational process by which European missionaries attempted to learn and utilize languages that were entirely new to them. Taken together, the items here trace out the compelling stories of intercultural interaction at a time when indigenous languages and culture formed an instrumental part of American Christianity.</p>\n\n"
+            }
+        }
+    }
+}
