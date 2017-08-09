@@ -53,10 +53,14 @@ var navChoices = {
 	home: {
 		iframe: null,
 		hash: null,
+		subsections: ['Italian Religious Broadsides', 'Polyglots: The Bible in Multiple Tongues', "Merlo's Map: The Religious Geography of Venice" , 'The Bible in Print', 'The Luther Controversy', 'Writing the Voices of the Americas'],
+		subshort: ['broadsides','polyglots', 'venice', 'bible', 'luther', 'americas'],
 	},
 	broadsides: {
 		iframe: './broadsides/index.html',
 		hash: '#broadsides',
+		subsections: ['Italian Religious Broadsides', 'An Introduction to Italian Religious Broadsides', 'Guide to Broadsides Research', 'Digitized Religious Broadsides', 'Religious Broadsides Bibliography', 'About This Site'],
+		subshort: ['BroadIndex','BroadIntro', 'BroadResearch', 'BroadImages', 'BroadBiblio', 'BroadAbout'],
 	},
 	polyglots: {
 		iframe: './polyglot/index.html',
@@ -67,18 +71,26 @@ var navChoices = {
 	venice: {
 		iframe: './venice/index.html',
 		hash: '#venice',
+		subsections: ["Merlo's Map: The Religious Geography of Venice"],
+		subshort: ['VeniceIndex'],
 	},
 	bible: {
 		iframe: './bible-in-print/index.html',
 		hash: '#bible',
+		subsections: ["The Bible in Print"],
+		subshort: ['BibleIndex'],
 	},
 	luther: {
 		iframe: './luther-controversy/index.html',
 		hash: '#luther',
+		subsections: ["An Introduction to the Luther Controversy", "Luther Controversy Storymap"],
+		subshort: ['LutherIndex', 'LutherMap'],
 	},
 	americas: {
 		iframe: './americas/index.html',
 		hash: '#americas',
+		subsections: ["Writing the Voices of the Americas"],
+		subshort: ['AmericasIndex'],
 	},
 	'PolyglotsIntro': {
 		iframe: './polyglot/index.html',
@@ -103,6 +115,50 @@ var navChoices = {
 	'PolyBiblio': {
 		iframe: './polyglot/index.html#biblio',
 		hash: '#polyglot',
+	},
+	'BroadIndex': {
+		iframe: './broadsides/index.html',
+		hash: '#broadsides',
+	},
+	'BroadIntro': {
+		iframe: './broadsides/Broadsides-Introduction.html',
+		hash: '#broadsides',
+	},
+	'BroadResearch': {
+		iframe: './broadsides/Broadsides-Guide-to-Research.html',
+		hash: '#broadsides',
+	},
+	'BroadImages': {
+		iframe: './broadsides/Broadsides-ImageViewer.html',
+		hash: '#broadsides',
+	},
+	'BroadBiblio': {
+		iframe: './broadsides/Broadsides-Bibliography.html',
+		hash: '#broadsides',
+	},
+	'BroadAbout': {
+		iframe: './broadsides/Broadsides-About-This-Site.html',
+		hash: '#broadsides',
+	},
+	'VeniceIndex': {
+		iframe: './venice/index.html',
+		hash: '#venice',
+	},
+	'LutherIndex': {
+		iframe: './luther-controversy/index.html',
+		hash: '#luther',
+	},
+	'LutherMap': {
+		iframe: './luther-controversy/index-map.html',
+		hash: '#luther',
+	},
+	'BibleIndex': {
+		iframe: './bible-in-print/index.html',
+		hash: '#bible',
+	},
+	'AmericasIndex': {
+		iframe: './americas/index.html',
+		hash: '#americas',
 	}
 
 
@@ -120,6 +176,7 @@ $('audio').on('ended', function(){
     (index<trackTitles.length)? $("#player").attr("src", trackTitles[index].src) : $("#player").attr("src", trackTitles[0].src) ;
     (index<trackTitles.length)? $("#player").attr("value", index) : $("#player").attr("value", 0) ;
     (index<trackTitles.length)? $("#musicTitle").append(trackTitles[index].title) : $("#musicTitle").append(trackTitles[0].title) ;
+    (index<trackTitles.length)? $("#musicTitle2").append(trackTitles[index].title) : $("#musicTitle2").append(trackTitles[0].title) ;
 
 });
 
@@ -131,6 +188,22 @@ $('#titleTop').on('change', function(){
 		//index area to be in-filled here
 		$('#mainFrame').attr("class", "coreExhibit coreHidden");
 		$('#pageIndex').attr("class", "coreExhibit");
+
+		$('#menuChoices').empty();
+
+		// let options = navChoices[choice].subsections;
+		// let keys = navChoices[choice].subshort;
+
+		// options.map((option, i)=>{
+		// 	$('#menuChoices').append(`<li><span value=${keys[i]} class="menuElements" tabindex="-1" id=${keys[i]}><span class="menuElements" >${option}</span></span><a class="expand" title="Explore ${option}" tabindex="-1"><span class="menuIcon rightArrowIcon pull-right"></span></a></li>`);
+		// 	$('#'+keys[i]).on('click', function(){
+		// 				$('#mainFrame').attr("src", navChoices[keys[i]].iframe); //switch out main iframe
+		// 				$('#mainFrame').attr("class", "coreExhibit");
+		// 				$('#pageIndex').attr("class", "coreExhibit coreHidden");
+
+		// 		});
+
+		// });
 
 
 	} else if (navChoices[choice].iframe){
@@ -182,5 +255,20 @@ $('.indexItem').on('click', function(event){
 
 	}
 
+})
+
+$('#musicLine').on('click', function(event){
+	console.log($('.modalMusic'));
+	$('.modalMusic')[0].style.display = "block";
+})
+
+$('.closeMusic').on('click', function(event){
+	$('.modalMusic')[0].style.display = "none";
+})
+
+$(window).on('click', function(event){
+    if (event.target == $('.modalMusic')[0]) {
+        $('.modalMusic')[0].style.display = "none";
+    }
 })
 

@@ -1,5 +1,46 @@
-.tl-slider-container-mask {background-image:url("./images/Ayer-MS.jpg"); background-size:100%; background-position-y:-350px;}
+.tl-slider-container-mask {background-image:url("./images/Ayer-MS-dark.jpg"); background-size:100%; background-position-y:-350px;}
 .tl-slider-screen {background-color:rgba(137, 111, 106, 0.4); position:absolute; height:100%; width:100%;}
-.tl-text .tl-text-content p {color:white; text-shadow:1px 1px 1px black}
+.tl-text .tl-text-content p {color:white; text-shadow:1px 1px 1px black; font-size: 1.25rem;}
 .tl-text-content-container .tl-headline {text-shadow:1px 1px 1px #FFF;}
 .tl-credit {color:white !important;}
+.tl-timeline .tl-headline-date, .tl-timeline h3.tl-headline-date {
+    font-family: 'PT Sans Narrow',sans-serif !important;
+    font-weight: normal !important;
+    text-transform: uppercase !important;
+    font-size: 1.25rem !important;
+    color: #f6f6f6 !important;
+}
+.tl-timeline .tl-slidenav-next .tl-slidenav-title, .tl-timeline .tl-slidenav-previous .tl-slidenav-title, .tl-timeline .tl-message .tl-slidenav-title, .tl-timeline .tl-timegroup-message .tl-slidenav-title {
+    line-height: 1.5em !important;
+    font-size: 15px;
+    color: black;
+}
+
+.tl-timenav {
+    width: 100%;
+    background-color: #988979 !important;
+    position: relative;
+    overflow: hidden;
+    border-top: 1px solid #ffffff !important;
+}
+
+.tl-text {
+    width: 50%;
+    max-width: 50%;
+    min-width: 120px;
+    padding: 0 20px 0 20px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: left;
+    text-shadow: none;
+    color: #ffffff !important;
+}
+
+.tl-slide-text-only .tl-slide-content-container .tl-slide-content .tl-text {
+    max-width: 80%;
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px !important;
+}

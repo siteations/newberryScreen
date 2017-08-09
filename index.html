@@ -77,9 +77,6 @@
 
         <li class="body" id="coreMenu">
         <ol id="menuChoices">
-
-        <li><a href="../04_lookingahead/00_Looking Ahead.html" tabindex="-1"><span>Looking Ahead</span></a><a class="expand" title="Explore Looking Ahead" tabindex="-1"><span class="menuIcon rightArrowIcon pull-right"></span></a></li>
-
         </ol>
       </li>
     </div>
@@ -92,7 +89,7 @@
           <option value="venice">merlo's venice</option>
           <option value="bible">the bible in print</option>
           <option value="luther">the luther controversy</option>
-          <option value="americas">print in the americas</option>
+          <option value="americas">writing the voices of the americas</option>
 
         </select></span>
 
@@ -175,7 +172,7 @@
                     <img src="./public/images/america-thumb.jpg" style="width:100%; border-radius: 5px;" value="americas" />
                   </div>
                   <div class="col-xs-8" value="americas" >
-                    <h3 class="titleAlt uppercase" value="americas" >print in the americas</h3>
+                    <h3 class="titleAlt uppercase" value="americas" >writing the voices of the americas</h3>
                       <div class="col-xs-8" value="americas" >
                         <p value="americas" >Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                       </div>
@@ -210,15 +207,49 @@
             </div>
           </div>
           <div class="inner col-xs-5 col-xs-offset-1 white">
-            <h5 style="font-family: 'lato';text-transform: uppercase; margin: 0px; letter-spacing: 1px;" >Religious Playlist<span style="text-transform: lowercase;">, now playing: </span><em><span id="musicTitle"> A Forest </span></em></h5>
+            <h5 id="musicLine" style="font-family: 'lato';text-transform: uppercase; margin: 0px; letter-spacing: 1px; font-size: 1.75rem; cursor: pointer ;" >Religious Change Playlist<span style="text-transform: lowercase;">, now playing: </span><em><span id="musicTitle"> A Forest </span></em></h5>
             <audio
               id="player"
               src="./audio/00.mp3"
               value="0"
+              autoplay
               >
               Your browser does not support the <code>audio</code> element.
             </audio>
           </div>
+        </div>
+                <!-- The Audio Modal -->
+        <div id="myModalMusic" class="modalMusic">
+
+          <!-- Modal content -->
+          <div class="modalMusic-content">
+            <div class="modalMusic-header">
+              <span class="closeMusic">&times;</span>
+              <h2>Religious Change Playlist</h2>
+            </div>
+            <div class="modalMusic-body">
+              <p>Some text about the featured song</p>
+              <p>Some other text or images of the music sheets?</p>
+            </div>
+            <div class="modalMusic-footer">
+                  <div id="block-block-62" class="block block-block address last even col-xs-11 col-xs-offset-1" style="margin-top: 12px">
+          <div class="inner col-xs-6">
+            <div class="content white">
+                <ul>
+                  <li>The Newberry</li>
+                  <li>60 West Walton Street</li>
+                  <li>Chicago, Illinois 60610</li>
+                  <li>(312) 943-9090</li>
+                </ul>
+            </div>
+          </div>
+          <div class="inner col-xs-5 col-xs-offset-1 white">
+            <h5 style="font-family: 'lato';text-transform: uppercase; margin: 0px; letter-spacing: 1px; font-size: 1.75rem" >Religious Change Playlist<span style="text-transform: lowercase;">, now playing: </span><em><span id="musicTitle2"> A Forest </span></em></h5>
+          </div>
+        </div>
+            </div>
+          </div>
+
         </div>
       </footer>
 </body>

@@ -3,7 +3,7 @@
     "storymap": {
         "call_to_action": true,
         "zoomify": {
-            "path": "./novacco_2f_20_medium/",
+            "path": "http://publications.newberry.org/storymap/novacco_2f_20_medium/",
             "width": 6306,
             "height": 4872
         },
