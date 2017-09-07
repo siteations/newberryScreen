@@ -1,0 +1,32 @@
+      <!-- 1 -->
+	  <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <link type="text/css" rel="stylesheet" href="./font-awesome.min.css" />
+	  <link type="text/css" rel="stylesheet" href="//fast.fonts.net/cssapi/fc8f8385-7e78-4c4b-a85e-9fa8bb57a66a.css"/>
+	  <link type="text/css" rel="stylesheet" href="http://publications.newberry.org/dig/system/application/views/melons/cantaloupe/css/font-imports.css" />
+	  <link type="text/css" rel="stylesheet" href="./custom.css" />
+	  <link type="text/css" rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+	  <link type="text/css" rel="stylesheet" href="./font.default.css" />
+	  <style>body {margin:auto;}</style>
+	  
+
+      <!-- 2 -->
+      <script src="./timeline.js"></script>
+
+      <div id='timeline-embed' style="width: 100%; height: 800px"></div>
+
+      <!-- 3 -->
+      <script type="text/javascript">
+        // The TL.Timeline constructor takes at least two arguments:
+        // the id of the Timeline container (no '#'), and
+        // the URL to your JSON data file or Google spreadsheet.
+        // the id must refer to an element "above" this code,
+        // and the element must have CSS styling to give it width and height
+        // optionally, a third argument with configuration options can be passed.
+        // See below for more about options.
+		var options = {
+				 marker_height_min: 75
+		}
+        var timeline = new TL.Timeline('timeline-embed',
+          'https://docs.google.com/spreadsheets/d/1FksW8bA-fLuxlVRlMGE9EEnpVaWCkvW7XdWOXXOHfD0/pubhtml',
+		  options);
+      </script>
