@@ -389,18 +389,18 @@ $('.indexItem').on('click', function(event){
 
 })
 
-$('#musicLine').on('click', function(event){
-	console.log($('.modalMusic'));
-	$('.modalMusic')[0].style.display = "block";
-})
+// $('#musicLine').on('click', function(event){
+// 	console.log($('.modalMusic'));
+// 	$('.modalMusic')[0].style.display = "block";
+// })
 
-$('.closeMusic').on('click', function(event){
-	$('.modalMusic')[0].style.display = "none";
-})
+// $('.closeMusic').on('click', function(event){
+// 	$('.modalMusic')[0].style.display = "none";
+// })
 
-$(window).on('click', function(event){
-    if (event.target == $('.modalMusic')[0]) {
-        $('.modalMusic')[0].style.display = "none";
-    }
-})
+// $(window).on('click', function(event){
+//     if (event.target == $('.modalMusic')[0]) {
+//         $('.modalMusic')[0].style.display = "none";
+//     }
+// })
 
