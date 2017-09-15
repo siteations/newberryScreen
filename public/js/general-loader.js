@@ -389,6 +389,14 @@ $('.indexItem').on('click', function(event){
 
 })
 
+$('.newberry').on('click', function(event){
+
+		$('#mainFrame').attr("class", "coreExhibit coreHidden");
+		$('#pageIndex').attr("class", "coreExhibit");
+
+		$('#menuChoices').empty();
+})
+
 // $('#musicLine').on('click', function(event){
 // 	console.log($('.modalMusic'));
 // 	$('.modalMusic')[0].style.display = "block";
