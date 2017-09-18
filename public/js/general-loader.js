@@ -62,7 +62,7 @@ var trackTitles = [ //adjust for actual files
 	{
 		id: 5,
 		title: 'Gospel Reading - Mt 21 1-9.mp3',
-		src: './audio/audio/Gospel%20Reading%20-%20Mt%2021%201-9.mp3',
+		src: './audio/Gospel%20Reading%20-%20Mt%2021%201-9.mp3',
 		place: '',
 		date: '',
 		author: '',
@@ -178,7 +178,7 @@ var trackTitles = [ //adjust for actual files
 		directed: '',
 		performDate: '',
 		description: '',
-	},
+	}
 ];
 
 var navChoices = {
@@ -308,7 +308,7 @@ $('audio').on('ended', function(){
     (index<trackTitles.length)? $("#player").attr("src", trackTitles[index].src) : $("#player").attr("src", trackTitles[0].src) ;
     (index<trackTitles.length)? $("#player").attr("value", index) : $("#player").attr("value", 0) ;
     (index<trackTitles.length)? $("#musicTitle").append(trackTitles[index].title) : $("#musicTitle").append(trackTitles[0].title) ;
-    (index<trackTitles.length)? $("#musicTitle2").append(trackTitles[index].title) : $("#musicTitle2").append(trackTitles[0].title) ;
+    // (index<trackTitles.length)? $("#musicTitle2").append(trackTitles[index].title) : $("#musicTitle2").append(trackTitles[0].title) ;
 
 });
 
