@@ -61,7 +61,7 @@ var trackTitles = [ //adjust for actual files
 	},
 	{
 		id: 5,
-		title: 'Gospel Reading - Mt 21 1-9.mp3',
+		title: 'Gospel Reading - Mt 21 1-9',
 		src: './audio/Gospel%20Reading%20-%20Mt%2021%201-9.mp3',
 		place: '',
 		date: '',
@@ -109,7 +109,7 @@ var trackTitles = [ //adjust for actual files
 	},
 	{
 		id: 9,
-		title: 'Luther  - Psalm 46 Ein feste  burg with Walther verse.mp3',
+		title: 'Luther  - Psalm 46 Ein feste  burg with Walther verse',
 		src: './audio/Luther  - Psalm 46 Ein feste  burg with Walther verse.mp3',
 		place: '',
 		date: '',
