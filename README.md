@@ -20,6 +20,11 @@
 * this is where you will want to be for updates. . . (so when updating, navigate here through your normal graphic user interface and right click, open git bash)
 * to update with git bash, simply type 'git pull origin master'
 * this command checks in with the git repository, looks at the commit history, and automatically downloads anything that has been updated
+
+the original install is around 10 minutes, 
+the clone is maybe 10-20 minutes akin to the typical download, 
+the pull for updating usually takes less than 30 seconds to update materials
+
 #### that's it - download git, clone the repository once, and continually update with 'git pull origin master'
 
 * for addition git commands, see the cheatsheet and docs at https://git-scm.com/docs
